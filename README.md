@@ -3,9 +3,9 @@
 
 Submitted by: **Flix**
 
-**Flix** is a movie browsing app that  
+**Flix** is a movie browsing app that fetches now playing movies from a third party server!
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -20,8 +20,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
+- [X] User implements a collection view
+- [X] User implemenets tab bar controller with at least two screens
 
 The following **additional** features are implemented:
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Phenomenalhub/FlixIOS/blob/main/flix.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Phenomenalhub/FlixIOS/blob/main/FlixIOS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [name of copyright owner]
+    Copyright [2023] [Emmanuel Onung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
